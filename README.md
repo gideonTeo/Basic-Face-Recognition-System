@@ -3,11 +3,12 @@ This face recognition project is just a basic prototype which will be later on m
 
 # Prerequisites
 - PyCharm
-- a functioning web camera 
+- A functioning web camera 
 - Python packages (CV2, numpy & face_recognition) 
+- Download haarcascade_frontalface_default.xml (source code)
 
 # Installing 
-- install python packages through pip3 on terminal / command prompt
+- Install python packages through pip3 on terminal / command prompt
 
 # Running the tests
 For face_rec_wNames.py:
