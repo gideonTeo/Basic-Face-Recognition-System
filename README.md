@@ -11,6 +11,12 @@ This face recognition project is just a basic prototype which will be later on m
 - Install python packages through pip3 on terminal / command prompt
 
 # Running the tests
+For face_rec_single.py:
+  Detect single face
+  
+For face_rec_multiple.py:
+  Detect multiple face
+  
 For face_rec_wNames.py:
   Replace the image file name. If error occurs, it means that the code couldn't recognise your image (can be check via len()).
   Add or remove variables from the list known_face_encodings / known_face_names. Ensure that the variables are in the correct sequence.
