@@ -1,5 +1,5 @@
 # Face-Recognition
-This face recognition project is just a basic prototype which will be later on modified and used in my upcoming project Sense+. It's not the best face recognition code you can find on git but okay.
+This face recognition project is just a basic prototype which will be modified and used in my upcoming project Sense+. It's not the best face recognition code you can find on git but okay.
 
 # Prerequisites
 - PyCharm
